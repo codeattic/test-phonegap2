@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="net.codeattic.phonegap2" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Phonegap2</name>
+    <name>RPM</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Remote Patient Monitoring
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="juan.hernandez@bearingpoint.com" href="http://www.bearingpoint.com">
+        BearingPoint
     </author>
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.5.0" />
